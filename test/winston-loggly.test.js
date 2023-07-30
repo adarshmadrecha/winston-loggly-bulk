@@ -1,5 +1,5 @@
-import { Loggly } from '../lib/winston-loggly';
-import winston from 'winston';
+const { Loggly } = require('../lib/winston-loggly');
+const winston = require('winston');
 
 const client = {
   log: () => { }

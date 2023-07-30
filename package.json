@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/loggly/winston-loggly-bulk.git"
+    "url": "git+https://github.com/adarshmadrecha/winston-loggly-bulk.git"
   },
   "keywords": [
     "loggly",

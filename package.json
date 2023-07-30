@@ -3,6 +3,7 @@
   "version": "3.2.1",
   "description": "A Loggly transport for winston",
   "author": "Adarsh Madrecha",
+  "type": "module",
   "contributors": [
     {
       "name": "Adarsh Madrecha",

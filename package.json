@@ -29,7 +29,7 @@
     "@adarshmadrecha/node-loggly-bulk": "4.0.1",
     "lodash.clonedeep": "4.5.0",
     "winston": "3.10.0",
-    "winston-transport": "4.4.0"
+    "winston-transport": "4.5.0"
   },
   "devDependencies": {
     "jest": "25.5.4"

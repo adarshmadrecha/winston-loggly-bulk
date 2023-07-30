@@ -37,7 +37,7 @@
   "devDependencies": {
     "jest": "29.6.2"
   },
-  "main": "./lib/winston-loggly",
+  "main": "./lib/winston-loggly.js",
   "scripts": {
     "test": "jest"
   },

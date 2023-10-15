@@ -28,7 +28,7 @@
   "dependencies": {
     "@adarshmadrecha/node-loggly-bulk": "4.0.1",
     "lodash.clonedeep": "4.5.0",
-    "winston-transport": "4.5.0"
+    "winston-transport": "4.6.0"
   },
   "peerDependencies": {
     "winston": ">=3.10.0"

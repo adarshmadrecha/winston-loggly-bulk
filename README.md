@@ -1,6 +1,6 @@
 # winston-loggly-bulk
 
-ℹ️ Forked from https://github.com/loggly/@adarshmadrecha/winston-loggly-bulk
+ℹ️ The issue https://github.com/loggly/winston-loggly-bulk/issues/92 was fixed by Loggly Team. Hence, this repo is no longer required. NPM package is also deprecated.
 
 A [Loggly][0] transport for [winston][1].
 
